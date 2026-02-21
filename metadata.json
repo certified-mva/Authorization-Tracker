@@ -1,0 +1,5 @@
+{
+  "name": "Authorization Tracker",
+  "description": "Secure medical authorization request tracking system with dashboard, analytics, and CSV export.",
+  "requestFramePermissions": []
+}
